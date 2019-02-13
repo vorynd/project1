@@ -1,8 +1,8 @@
 package com.martynuk;
 
-import com.martynuk.view.MainMenu;
-
 import java.io.IOException;
+
+import com.martynuk.view.MainMenu;
 
 public class App {
 
