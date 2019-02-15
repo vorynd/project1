@@ -50,5 +50,13 @@ public class AdminMenu {
         System.out.println("9. Return");
         System.out.println("0. Exit");
     }
+     private void showAllClients() {
+        clientService.getAllClients() for (:
+                                           ) {
+             
+         }
+         System.out.println(Client);
+         
+     }
 
 }
